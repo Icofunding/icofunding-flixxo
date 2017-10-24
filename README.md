@@ -1,2 +1,4 @@
-# icofunding-flixxo
-Flixxo ICO smart contracts
+# Icofunding - Flixxo
+
+## Run tests
+`truffle test`
